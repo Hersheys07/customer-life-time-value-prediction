@@ -37,7 +37,8 @@ variables:
  Vehicle Size                   
 
 Use Cases:
-•	Customer Segmentation: Group customers based on their CLV to tailor marketing strategies.
-•	Product Recommendations: Use CLV to recommend products or services to customers likely to make high-value purchases.
-•	Marketing Campaign Optimization: Allocate resources to marketing channels that attract high CLV customers.
+
+Customer Segmentation: Group customers based on their CLV to tailor marketing strategies.
+Product Recommendations: Use CLV to recommend products or services to customers likely to make high-value purchases.
+Marketing Campaign Optimization: Allocate resources to marketing channels that attract high CLV customers.
 
