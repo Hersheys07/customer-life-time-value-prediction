@@ -7,7 +7,6 @@ Companies get insights about customers and can create well-informed marketing st
 
 In short, it helps focus on the long term profitability of business rather than short term gain so that both business and customers reap benefits.
 
-
 In this project, We are going to build some machine learning models that predicts our customers lifetime value.
 
 variables:
@@ -39,6 +38,8 @@ variables:
 Use Cases:
 
 Customer Segmentation: Group customers based on their CLV to tailor marketing strategies.
+
 Product Recommendations: Use CLV to recommend products or services to customers likely to make high-value purchases.
+
 Marketing Campaign Optimization: Allocate resources to marketing channels that attract high CLV customers.
 
